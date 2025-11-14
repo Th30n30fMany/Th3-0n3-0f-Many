@@ -1,5 +1,10 @@
-Hi, I’m @th30n30fmany 
+Hi, I’m @th30n30fmany a humble follower of God
 
+One of many script kitties looking to pwn the world. I am a hacker for fun.An aspiring cybersecurity researcher passionate about Technology, Security, Privacy, OpSec, PerSec (Personal not Personnel security)
+
+Alliteration is a hobby of mine, spelling is a blessed weakness; May you overlook the mistakes I may make. Constructive criticism is celebrated; and the cornerstone of cognition!
+
+Twitter: https://x.com/th30n30fmany
 
  ***@th30n30fmany PUBLIC PGP***
 
