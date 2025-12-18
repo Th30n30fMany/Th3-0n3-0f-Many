@@ -1,8 +1,26 @@
 Hi, I’m @th30n30fmany a humble follower of God
+One of many script kats prowling the net, chasing exploits.
+An Amateur Persistent Threat if you will. Not quite an APT
 
-One of many script kitties looking to pwn the world. I am a hacker for fun.An aspiring cybersecurity researcher passionate about Technology, Security, Privacy, OpSec, PerSec (Personal not Personnel security)
+I am a hacker-er, I mean Cybersecurity Researcher for fun and a defender for dollars. Blue by day and Red by night.
+Technology, OpSec(Operational Security), PerSec (Personal not Personnel), are some broader focuses.
 
-Alliteration is a hobby of mine, spelling is a blessed weakness; May you overlook the mistakes I may make. Constructive criticism is celebrated; and the cornerstone of cognition!
+I bring 8 years of hands‑on expertise in physical security, forged in high‑stakes, high‑profile environments.
+Funny enough, I barely touched computers in my youth outside of school—yet here I am, drowning in code and cognition.
+
+Social Engineering holds a special place in my heart.
+When in doubt, Phish’em out!
+
+Because here’s the truth: not every wall can be broken with code.
+If the technicals are too tight, the configs too clean, or the firewalls too fierce.
+There’s always the human element.
+Passwords can be updated, systems can be hardened, but curiosity and trust?
+Those are vulnerabilities that never fully disappear. So if you can’t break the tech, bend the psyche.
+
+Alliteration is a passion, spelling my blessed weakness.
+Overlook the typos, celebrate the critique; constructive criticism is the cornerstone of cognition.
+
+
 
 Twitter: https://x.com/th30n30fmany
 
